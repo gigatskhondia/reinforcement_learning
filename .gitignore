@@ -2,3 +2,5 @@ __pycache__/
 .idea/
 .ipynb_checkpoints
 .DS_Store
+deep_learning_preliminaries/LSTM/one_step
+deep_learning_preliminaries/LSTM/training_checkpoints
