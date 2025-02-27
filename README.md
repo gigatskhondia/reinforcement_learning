@@ -1,10 +1,8 @@
-# reinforcement_learning
-reinforcement learning algorithms, models and experiments 
+# Reinforcement learning experimentation
 
+This repository is dedicated to my experiments with reinforcement learning algorithms and methods.
 
 For earlier Sutton and Barto chapters see [buomsoo-kim](https://github.com/buomsoo-kim/Tabular-RL-with-Python) repository
-
-
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page.
 
