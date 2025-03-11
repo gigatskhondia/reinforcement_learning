@@ -2,7 +2,7 @@
 
 This repository is dedicated to my experiments with reinforcement learning algorithms and methods.
 
-For earlier Sutton and Barto chapters' solutions see [buomsoo-kim](https://github.com/buomsoo-kim/Tabular-RL-with-Python) repository
+For the earlier Sutton and Barto chapters' solutions see [buomsoo-kim](https://github.com/buomsoo-kim/Tabular-RL-with-Python) repository
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page.
 
